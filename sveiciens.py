@@ -1,1 +1,1 @@
-print("Man garšo mcdonalds")
+print("Nomaina sveiciena tekstu")
