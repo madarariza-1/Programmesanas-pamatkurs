@@ -1,1 +1,1 @@
-print("Mans pirmais comit!")
+print("Man garšo mcdonalds")
