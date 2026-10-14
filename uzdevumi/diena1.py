@@ -1,1 +1,2 @@
-print("Strādāju no apakšmapes")
+
+print("čAU")
